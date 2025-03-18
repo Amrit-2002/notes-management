@@ -221,6 +221,14 @@ input:checked+.slider:before {
 	max-width: 795px;
 } */
 
+.ck-placeholder{
+	height: 150px !important;
+}
+
+.ck-editor__editable{
+	height: 150px !important;
+}
+
 .ck-content h3.category {
 	font-family: 'Oswald';
 	font-size: 20px;
