@@ -34,8 +34,11 @@ Developed a notes management application with features like user authentication 
 4. Configure the database in `application/config/database.php`.
 5. Run the application on your local server.
 
-## Usage
-Explain how to use the application, including any necessary commands or configurations.
+## Screenshots
+![notes-app](https://github.com/user-attachments/assets/a86e9ddd-d53c-4df4-869d-d33e95cb2830)
+![image](https://github.com/user-attachments/assets/645c0195-9a5b-4a69-93c1-749703da04ad)
+![image](https://github.com/user-attachments/assets/1cdc0b61-55d9-4890-88b7-9cfbc7a7330b)
+
 
 ## Contributing
 Guidelines for contributing to the project.
