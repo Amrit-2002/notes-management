@@ -39,10 +39,6 @@ Developed a notes management application with features like user authentication 
 ![image](https://github.com/user-attachments/assets/645c0195-9a5b-4a69-93c1-749703da04ad)
 ![image](https://github.com/user-attachments/assets/1cdc0b61-55d9-4890-88b7-9cfbc7a7330b)
 
-
-## Contributing
-Guidelines for contributing to the project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
